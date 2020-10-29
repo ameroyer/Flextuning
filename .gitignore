@@ -1,0 +1,9 @@
+Data/*
+scripts/logs/*
+spatial-transformer-network/
+log/*
+SSD*
+*~
+.ipynb*
+nns*.png
+*cub*
