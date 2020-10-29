@@ -1,3 +1,6 @@
+
+*ReadMe and instructions: Work in progress*
+
 ## Introduction
 Implementation of Flextuning described in [A Flexible Selection Scheme for Minimum-Effort Transfer Learning, WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/papers/Royer_A_Flexible_Selection_Scheme_for_Minimum-Effort_Transfer_Learning_WACV_2020_paper.pdf)
 
